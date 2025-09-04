@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 If you're reading this, it means that you want to see the files of the great and original BirdsWeb, a website about budgies! But theres a problem: some files are in Italian (cuz thats the original version) and are private files that only the developer (me) can see. Thanks for reading!
+  
 
 <!--
 **BirdsWeb/birdsweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
